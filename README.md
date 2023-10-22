@@ -9,7 +9,7 @@ Employee attrition is a significant concern for companies, often resulting in in
 We've incorporated an in-depth exploratory data analysis (EDA) phase into our project. This step involves scrutinizing the dataset to uncover patterns, relationships, and factors that influence employee attrition.
 
 ## Classification
-Our project's core focus is the application of various classification techniques. These include Logistic Regression, Naive Bayes, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), and k-Nearest Neighbors (KNN). Through these methods, we aim to effectively predict attrition
+Our project's core focus is the application of various classification techniques. These include Logistic Regression, Naive Bayes, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), and k-Nearest Neighbors (KNN). Through these methods, we aim to effectively predict attrition.
 
 ## Team Members
 
