@@ -1,4 +1,4 @@
-# Attrition-Classification
+# Employee Attrition-Classification
 
 ## Project Overview
 To explore the complete project with interactive visualizations, please visit: [Statistical-Analysis-Attrition-Classification](https://annacerbaro.github.io/Attrition-Classification/).
