@@ -13,4 +13,4 @@ Our project's core focus is the application of various classification techniques
 
 ## Team Members
 
-| [Anna Cerbaro](https://github.com/annacerbaro) | [Eleni Papadopulos](https://github.com/elenipapadopulos) | [Erica Marras](https://github.com/ericamarras) |
+| [Anna Cerbaro](https://github.com/annacerbaro) | [Erica Marras](https://github.com/ericamarras) | [Eleni Papadopulos](https://github.com/elenipapadopulos) | 
