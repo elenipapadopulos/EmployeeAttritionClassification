@@ -1,7 +1,7 @@
 # Attrition-Classification
 
 ## Project Overview
-To explore the complete project with interactive visualizations, please visit: [Statistical-Analysis-Attrition-Classification](https://annacerbaro.github.io/Attrition-Classification/)
+To explore the complete project with interactive visualizations, please visit: [Statistical-Analysis-Attrition-Classification](https://annacerbaro.github.io/Attrition-Classification/).
 Our primary goal is to address the challenge of employee attrition, seeking to predict and understand the reasons behind employees leaving their jobs.
 Employee attrition is a significant concern for companies, often resulting in increased costs and workplace disruptions. Our project is dedicated to predicting attrition and gaining insights into the underlying factors driving it.
 
